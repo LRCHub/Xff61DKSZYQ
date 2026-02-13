@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "アイロニック",
+  "base_artist": "Kanaria",
+  "createdAt": "2026-02-13T10:23:07.782538Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アイロニック",
+      "artist": "Kanaria",
+      "has_synced": false,
+      "path": "select/01_アイロニック_Kanaria.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アイロニック",
+      "artist": "Kanaria",
+      "has_synced": false,
+      "path": "select/pl_01_アイロニック_Kanaria.txt"
+    }
+  ]
+}
